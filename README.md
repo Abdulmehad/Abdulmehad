@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Front-end projects**
 - 🌱 I’m currently learning **Frameworks**
 - 👯 I’m looking to collaborate on **Front-end projects**
-- 👨‍💻 All of my projects are available at [Portfolio](https://abdulmehad.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [Projects](https://abdulmehad.github.io/Portfolio-Website/#portfolio)
 - 💬 Ask me about **HTML, CSS, and JS**
 - 📫 How to reach me: [abdulmehad@gmail.com](mailto:abdulmehad@gmail.com)
 - 📄 Know about my experiences on [Portfolio](https://abdulmehad.github.io/Portfolio-Website/)
