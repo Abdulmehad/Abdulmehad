@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abdul Mehad</h1>
 <h3 align="center">Passionate Frontend Developer from Lahore, Pakistan</h3>
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdulmehad&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmehad" />
