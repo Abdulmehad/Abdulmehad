@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=abdulmehad&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmehad" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulmehad" alt="abdulmehad" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **Front-end projects**
 - 🌱 I’m currently learning **Frameworks**
 - 👯 I’m looking to collaborate on **Front-end projects**
@@ -20,6 +14,11 @@
 - 💬 Ask me about **HTML, CSS, and JS**
 - 📫 How to reach me: [abdulmehad@gmail.com](mailto:abdulmehad@gmail.com)
 - 📄 Know about my experiences on [Portfolio](https://abdulmehad.github.io/Portfolio-Website/)
+- <p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulmehad" alt="abdulmehad" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
