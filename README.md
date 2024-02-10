@@ -6,8 +6,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdulmehad&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmehad" />
 </p>
-<br>
-<br>
+
 - 🔭 I’m currently working on **Front-end projects**
 - 🌱 I’m currently learning **Frameworks**
 - 👯 I’m looking to collaborate on **Front-end projects**
